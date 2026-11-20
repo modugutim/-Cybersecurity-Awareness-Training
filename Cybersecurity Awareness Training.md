@@ -34,13 +34,22 @@ Reduce the likelihood of human-driven incidents by giving employees the knowledg
 - Security metrics and KPIs
 - Compliance-aligned training evidence
 
-<!--
-Uncomment after adding sanitized files to /docs:
+
 
 ## Deliverables
 
-See [`/docs`](docs/) for sanitized samples from this project.
--->
+**Some Cybersecurity Training Decks**
+
+<img width="1050" height="780" alt="cyber training deck 1" src="https://github.com/user-attachments/assets/7a9b8fbf-bef9-49c2-9b3f-483288982e08" />
+
+<img width="1040" height="782" alt="cyber training deck 2" src="https://github.com/user-attachments/assets/d8043959-d1bf-4659-a518-de40329ac253" />
+
+<img width="1044" height="782" alt="cyber training deck 3" src="https://github.com/user-attachments/assets/d42814f6-8200-4da5-b2ed-3a6186cc5399" />
+
+
+
+
+
 
 *All materials are sanitized and contain no confidential or client data.*
 
